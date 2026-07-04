@@ -1,18 +1,63 @@
-# 💫 About Me:
-Hi, I’m Fachri Nandra — you can call me Nandra.<br><br>I’m a web developer and designer who enjoys turning ideas into clean, functional, and visually appealing digital products. I’m currently studying Software Engineering while actively building real-world projects to sharpen my skills.<br><br>I love exploring UI/UX, front-end development, and building practical tools that solve everyday problems. Most of my work revolves around JavaScript, PHP, and modern web design principles. Always open to learning new technologies and collaborating on meaningful projects.<br><br>What I’m focused on:<br><br>🎨 Front-end development & responsive design<br><br>🧩 Web apps with clean UI/UX<br><br>🛠️ Improving code quality & workflow<br><br>💡 Exploring creative design concepts<br><br>Let’s connect or build something together.
+# Halo semuanya! 👋 Saya Fachri Nandra Syahputra
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Tema-Biru%20Tua-0A2540?style=flat-square" alt="Theme">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-0052CC?style=flat-square" alt="Status">
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HcAcrP94) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Fachri Nandra Syahputra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ndr4._sys) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fachri Nandra Syahutra) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nandrooww) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Fachri Nandra Syahputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fachrinandrasyahputra@gmail.com) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nandra12345&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nandra12345&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandra12345&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Selamat datang di profil GitHub saya! Saya biasa dipanggil **Nandra**. Saya adalah seorang tech enthusiast yang berfokus pada pengembangan perangkat lunak, eksplorasi sistem, dan membangun solusi digital yang efisien serta inovatif.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nandra12345&icon=7&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 Tentang Saya
+- 🧑‍💻 **Nama Lengkap:** Fachri Nandra Syahputra
+- 🎯 **Nama Panggilan:** Nandra
+- 🚀 **Fokus/Minat:** Web Development, Software Engineering, & System Exploration.
+- 🌱 **Sedang Mempelajari:** Teknologi terbaru seputar ekosistem pemrograman dan arsitektur kode yang bersih.
+- 💬 **Diskusi:** Terbuka untuk diskusi seputar teknologi, pemrograman, atau kolaborasi proyek menarik!
+
+---
+
+### 🛠️ Tech Stack & Tools
+Berikut adalah beberapa teknologi, bahasa pemrograman, dan alat-alat yang sering saya gunakan dalam proyek saya:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,git,github,vscode,sublime,linux,mysql&theme=dark" alt="My Skills"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Mari Terhubung
+Saya sangat terbuka untuk berjejaring, berbagi ilmu, maupun berkolaborasi dalam proyek *open-source*. Silakan hubungi saya melalui platform di bawah ini:
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/ndr4._sys" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1D3557?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:email.anda@domain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-002D62?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
+> 💡 *Catatan: Jangan lupa untuk mengubah `YOUR_LINKEDIN_USERNAME` dengan username LinkedIn asli Anda pada kode di atas.*
+
+---
+
+### 📊 GitHub Stats
+Untuk memberikan gambaran mengenai aktivitas coding saya, berikut adalah ringkasan performa repositori saya:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0A2540&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0A2540&fire=38BDF8&ring=38BDF8&currStreakLabel=E2E8F0" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Dibuat dengan 💙 oleh Nandra. Terima kasih telah berkunjung!</i>
+</p>
