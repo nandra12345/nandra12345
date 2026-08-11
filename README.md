@@ -1,180 +1,45 @@
-<div align="center">
+<h1 align="center">Hi 👋, my name is Fachri Nandraa</h1>
+<h3 align="center">A fullstack developer from Bekasea, Indonesia</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1E3A5F&height=220&section=header&text=Fachri%20Nandra%20Syahputra&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=E2E8F0&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20System%20Architecture&descAlignY=55&descAlign=50&descSize=16" width="100%" alt="Header Banner" />
+- 🔭 I’m currently working on **Three.js | Reactjs &  Nextjs & Expressjs & Nodejs**
 
-<br/>
+- 🌱 I’m currently learning **AI & Figma & design patterns & Business Development**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+systems;Clean+architecture+advocate;Backend+%26+Cloud+Enthusiast;Open+to+collaboration" alt="Typing SVG" />
+- 👯 Currently, i intern as a Fullstack Developer at Indi Technology
 
-<br/><br/>
+- 💬 Ask me about **Reactjs & Next.js & TypeScript & Laravel & Ai automation**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/dynamic/json?color=0A2540&label=PROFILE%20VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FYOUR_GITHUB_USERNAME%2Fprofile-views&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
-</a>
-<a href="mailto:email.anda@domain.com">
-  <img src="https://img.shields.io/badge/Email-0A2540?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/>
-</a>
-<a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0A2540?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
-</a>
+- 📫 How to reach me **fachrinandrasyahputra@gmail.com**
 
-</div>
+<h3 align="left">Connect with me:</h3>
+My portofolio : https://nandra-works.vercel.app/
+<p align="left">
+</p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:1E3A5F&height=2&width=100%" width="100%"/>
 
-## About
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybezen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="mybezen" /></p>
 
-Software Engineer dengan fokus pada pengembangan sistem backend yang efisien, arsitektur kode yang bersih, dan solusi digital yang scalable. Terbiasa bekerja di lingkungan Linux dengan pendekatan engineering yang disiplin — menulis kode yang mudah dirawat, mudah diuji, dan siap untuk berkembang seiring kebutuhan produk.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mybezen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="mybezen" /></p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Fokus saat ini**
-Membangun proyek yang scalable dan melakukan optimasi performa sistem.
-
-**Sedang dipelajari**
-Arsitektur cloud modern dan pola desain backend tingkat lanjut.
-
-</td>
-<td width="50%" valign="top">
-
-**Kolaborasi**
-Terbuka untuk kontribusi pada proyek open-source yang relevan.
-
-**Cara menghubungi**
-Diskusi seputar web development, sistem Linux, dan best practice engineering.
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:1E3A5F&height=2&width=100%" width="100%"/>
-
-## Technical Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,nodejs&theme=dark&perline=8" alt="Languages" />
-
-<br/><br/>
-
-**Database & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,nginx,linux&theme=dark&perline=8" alt="Infra" />
-
-<br/><br/>
-
-**Tools & Environment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,figma,postman&theme=dark&perline=8" alt="Tools" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:1E3A5F&height=2&width=100%" width="100%"/>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0A2540&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_radius=12&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0A2540&title_color=38BDF8&text_color=E2E8F0&border_radius=12&hide_border=true" alt="Top Languages" width="43%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0A2540&fire=38BDF8&ring=38BDF8&currStreakLabel=E2E8F0&border=1E3A5F&border_radius=12" alt="GitHub Streak" width="96%" />
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:1E3A5F&height=2&width=100%" width="100%"/>
-
-## Contribution Graph
-
-<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mybezen&theme=tokyonight&hide_border=true" alt="mybezen" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="96%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
-</div>
-
-> Animasi snake di atas dihasilkan otomatis lewat GitHub Action. Jika belum aktif di repo kamu, ikuti setup singkat di bagian bawah file ini.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:1E3A5F&height=2&width=100%" width="100%"/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0A2540&border_color=1E3A5F" alt="Quote" />
-
-<br/><br/>
-
-<sub>Dibuat dan dirawat oleh Fachri Nandra Syahputra</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1E3A5F&height=100&section=footer" width="100%" alt="Footer Banner" />
-
 ---
-
-<details>
-<summary><b>Setup Snake Animation (klik untuk detail)</b></summary>
-
-<br/>
-
-Snake animation dihasilkan lewat GitHub Action resmi dari <a href="https://github.com/Platane/snk">Platane/snk</a>. Langkah singkat:
-
-1. Buat repository dengan nama sama persis dengan username GitHub kamu (contoh: jika username `nandra`, nama repo harus `nandra`).
-2. Di dalam repo tersebut, buat file `.github/workflows/snake.yml` dengan isi berikut:
-
-```yaml
-name: generate animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Push, lalu jalankan workflow sekali secara manual (tab Actions → Run workflow).
-4. Branch `output` akan otomatis terisi file SVG, dan gambar di bagian "Contribution Graph" di atas akan langsung aktif.
-
-</details>
+[![](https://visitcount.itsvg.in/api?id=mybezen&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
